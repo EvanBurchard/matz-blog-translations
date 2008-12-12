@@ -1,0 +1,29 @@
+2008-12-06
+
+SD Card
+
+When I put the video from RubyConf on my 2 gig SD card, I got a read/write error. After that, the data was gone, and it would not mount.
+
+It seems like the partition table is where the problem is.  fdisk is not returning a broken partition table error.
+
+Maybe the card itself could be broken?  I don't rememeber being that rough with it though.
+
+
+2008-12-08
+The Reception
+
+Business Trip
+
+
+2008-12-11
+Japan is small
+
+This morning, it's a ruby development meeting in Akihabara. Tonight, it's a visit to the Matsukou Institute to sing Christmas carols.  Tomorrow I go to Sapporo via Tokyo.
+
+I really get the feeling that Japan is small.
+
+
+2008-12-12
+Sapporo
+
+Dinner
