@@ -1,20 +1,8 @@
 The good news- Matz has a blog that he regularly updates!  It's at-- http://www.rubyist.net/~matz/  
-The bad news- It's in Japanese... and no one appears to be translating it, at least on git hub.  The posts are usually very short, so I think I can take give it a shot.  
+The bad news- It's in Japanese... and no one appears to be translating it, at least on git hub.  The posts are usually short, so I think I can take give it a shot.  
 
 
-I started in November 2008 and these are my goals:
+Disclaimer:
 
+It might be best to take this as "what Matz is talking about," rather than "what Matz actually said."  I'm not a Japanese expert, so I will go beyond saying that I don't guarantee it to be perfect.  Actually, I assure you that some of the things that I write I assure you will be WRONG WRONG WRONG.  Nonetheless, I think you might still be able to get some interesting info from my guesswork/translation.
 
-1. Translating current content and keeping it up to date.
-
-2. Translating any posts from particular periods of time requested by fellow rubyists.  So if you saw Matz speak, and you want his post conference impression, just let me know when it happened and I'll see if I can find anything.
-
-3. Working backwards to cover all of the posts going back to May of 2003.  This could take a while...
-
-4. Providing good translations.  I can't promise perfection, but I'll do my round-eyed best!  
-
-Two notes about my translations:  
-
-1.  It might be best to take this as "what Matz is talking about," rather than "what Matz actually said."  I'm not a Japanese expert, so I will go beyond saying that I don't guarantee it to be perfect.  Actually, I assure you that some of the things that I write I assure you will be WRONG WRONG WRONG.  Nonetheless, I think you might still be able to get some interesting info from my guesswork/translation.
-
-2.  I am for shooting for somewhere between a literal and cultural translation.  It should make sense in English, but retain the original meaning.  寿司を食べた(I ate sushi) would not be translated into non-Japanese culture with something like "I ate rice with seaweed and raw fish," but even though there's no "I" in the original sentence, I don't translate it literally translated into "ate sushi."  If anything is ambiguous, I'll provide from notes.  If you have any questions, let me know.
