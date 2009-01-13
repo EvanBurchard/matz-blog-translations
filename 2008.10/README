@@ -97,6 +97,40 @@ I ate some cold soup for the first time.  I like things that are different, but 
 
 2008-10-6
 
+Company Internal meeting group about pattern matching with ragel and dcg
+
+We have so much talent, so it's a waste if we don't share our information.  So we met to discuss this.  
+
+Due to family circumstances, I had to go home early, but the meeting provided some good insight.
+
+I'm surprised at the essential lack of regular expressions, literals, and Prolog.  But after thinking about it, if Ragl or something like it came with the standard library, things that look like JSON or YAML syntax parsing could be written easily.  Maybe this could open up a new world of possibilities.
+
+For example:
+
+<pre>
+class HttpParser < Ragel::Base
+  rules <<-END
+     main := Request_Line @done;
+     ....
+  END
+  def initialize
+     ....
+  end
+  def action_done
+     ....
+  end
+end
+
+parser = HttpParser.new
+</pre>
+
+So if we have that in the API, what are the implications?
+
+This code isn't very pretty, but it might be a little more seamless than Racc?
+
+Does someone want to take it on?
+
+
 2008-10-1
 U20 Pro-Con Workshop and Awards Ceremony
 
