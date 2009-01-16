@@ -1,5 +1,19 @@
-2009-1-12
+2009-1-13
+Ruby Standards Conference
 
+It's an overnight thing, but we don't do anything special at night.
+
+For the sake of creating the draft of the Ruby standards, the WG committee chairman, Ikuo Nakata came all the way to Matsue to review the present form of the draft.
+
+Not me so much, but some other members are really smart, so we have made a lot of progress.  That is to say, that aside from lunch, we've been quite a force.
+
+However, something that I've thought of is that what we think of as standard Ruby might end up as might being a very different language.  Therefore, my feeling on getting the Ruby standard together is that the parts of it that are like boxes stacked in a corner leave me with a feeling like "ah... so glad to be done."
+
+Sorry for that.
+
+The standard is planned to be a subset of CRuby(MRI), so I think it should come close to the "Ruby Lite" that Dave Thomas is anticipates.     
+
+2009-1-12
 Shoveling Snow
 
 Over the night we had about 10 MORE cm of snowfall.  It's been snowing for three strait days now.
