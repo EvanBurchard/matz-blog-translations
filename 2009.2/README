@@ -35,7 +35,32 @@ The sense of security that I've had from being able to read the source code isn'
 
 Also, some of the subtle settings are lost on me.  If I want to change the "kotoeri" Japanese input method, what do I do?
 
+Or for instance, if I have a Japanese keyboard, but I want to use an English arrangement, what am I supposed to do?  It ends up being very difficult.
 
+As far as that, I could use the JANSI input method, but...
+
+Well, for people who aren't get used to it, Linux can be inaccessible.  So I it doesn't usually get fair reviews.
+
+So I guess it is somewhat unexpected, but as far as everyday use, it doesn't look like I'll be using it.
+
+
+Ruby Standards Conference
+
+The main ruby developers met in Matsue for the Ruby Development Conference.
+
+-matz
+-ko1
+-yugui
+-akr
+-shyouhei
+-shugo
+-knu
+
+I was absent because I was in Matsue the day before.
+
+All of the issues of Redmine were sorted out.  There was a lot accomplished.  At least the assignments were given out.
+
+The standards conference was sponsored by Shimane University. 
 
 
 2009-2-1
